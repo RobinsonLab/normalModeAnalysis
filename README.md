@@ -1,4 +1,4 @@
 normalModeAnalysis
 ==================
 
-Scripts doing harmonic analysis of regulated actin
+Scripts for doing harmonic analysis of regulated actin
